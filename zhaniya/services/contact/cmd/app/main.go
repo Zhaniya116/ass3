@@ -10,7 +10,7 @@ func main() {
     host := "localhost"
     port := "5432"
     user := "postgres"
-    password := "toha2004"
+    password := "1234"
     dbname := "example"
 
     // Подключение к БД PostgreSQL
